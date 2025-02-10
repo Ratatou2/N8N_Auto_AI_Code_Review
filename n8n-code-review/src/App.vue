@@ -1,11 +1,10 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h1>여기에요 여기!</h1>
   
   <button
     :style="buttonStyle"
-    @click="handleCick"
+    @click="handCick"
   >
     클릭하세요
   </button>
@@ -13,7 +12,7 @@
   <!-- 3x4 표 추가 -->
   <table
     style="margin-top: 30px; width: 60%; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-collapse: collapse;"
-    @click="toggllColor"
+    @click="toggllolor"
   >
     <thead>
       <tr>
