@@ -1,5 +1,5 @@
 # n8n-code-review
-- n8n push 디스코드 알림 테스트 1
+- n8n push 디스코드 알림 테스트 성공 - 데이터 확인용 코드 수정정
 
 ## Project setup
 ```
