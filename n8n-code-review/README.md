@@ -1,5 +1,5 @@
 # n8n-code-review
-- n8n push 디스코드 알림 테스트
+- n8n push 디스코드 알림 테스트 1
 
 ## Project setup
 ```
