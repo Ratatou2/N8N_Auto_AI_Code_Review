@@ -5,7 +5,7 @@
   
   <button
     :style="buttonStyle"
-    @click="handleClick"
+    @click="handleCick"
   >
     클릭하세요
   </button>
