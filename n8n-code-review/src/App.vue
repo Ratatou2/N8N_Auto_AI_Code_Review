@@ -4,7 +4,7 @@
   
   <button
     :style="buttonStyle"
-    @click="handleCli"
+    @click="handleClic"
   >
     클릭하세요
   </button>
@@ -12,7 +12,7 @@
   <!-- 3x4 표 추가 -->
   <table
     style="margin-top: 30px; width: 60%; margin-left: auto; margin-right: auto; border: 1px solid #ddd; border-collapse: collapse;"
-    @click="toggleCellCol"
+    @click="toggleCellColo"
   >
     <thead>
       <tr>
