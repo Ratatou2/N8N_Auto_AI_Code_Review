@@ -11,7 +11,7 @@ def make_movie_name(movie_title):
     movie_url = basic_url + movie_title
     response = requests.get(movie_url)
 
-    if response.status_code == 200:
+    if response.status_code == 10:
         sub_title_temp = ''
 
         html = response.text
